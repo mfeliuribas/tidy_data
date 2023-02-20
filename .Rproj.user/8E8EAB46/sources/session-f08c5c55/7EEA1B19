@@ -1,0 +1,27 @@
+{
+    "id": "7EEA1B19",
+    "path": "~/Desktop/tidy_data/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "1679586976",
+    "contents": "",
+    "dirty": false,
+    "created": 1676913901342.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,24",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676915502,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676915502381,
+    "read_only": false,
+    "read_only_alternatives": []
+}
